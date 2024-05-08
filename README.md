@@ -5,7 +5,7 @@ The best way to learn a new programming language is to build projects with it.  
 - [2:Tip Calculator](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Tip%20Calculator) 
 - [3:Treasure-island](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Treasure-island)
 - [4:Rock Paper Scissors](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Rock%20Paper%20Scissors)
-- [5:] Python Loops
+- [5:TREASURE MAP](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/TREASURE%20MAP)
 - [6:]Python Functions & Karel
 - [7:]Hangman
 - [8:] Function Parameters & Caesar Cipher
