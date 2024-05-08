@@ -2,7 +2,7 @@
 The best way to learn a new programming language is to build projects with it.  I have created a friendly projects tutorials in Python.
 ## 🔰 Beginner 
 - [1:]) band name generator
-- [2:] Understanding Data Types and How to Manipulate Strings
+- [2:] Tip Calculator
 - [3:] Control Flow and Logical Operators
 - [4:] Randomisation and Python Lists
 - [5:] Python Loops
