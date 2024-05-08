@@ -4,7 +4,7 @@ The best way to learn a new programming language is to build projects with it.  
 - [1:]) band name generator
 - [2:] Tip Calculator
 - [3:] Treasure-island
-- [4:] Randomisation and Python Lists
+- [4:] Rock Paper Scissors
 - [5:] Python Loops
 - [6:]Python Functions & Karel
 - [7:]Hangman
