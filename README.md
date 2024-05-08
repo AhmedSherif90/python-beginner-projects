@@ -1,7 +1,7 @@
 # python-beginner-projects
 The best way to learn a new programming language is to build projects with it.  I have created a friendly projects tutorials in Python.
 ## 🔰 Beginner 
-- [1:]) band name generator
+- [1:])(https://github.com/AhmedSherif90/python-beginner-projects/tree/main/band%20name%20generator) band name generator
 - [2:] Tip Calculator
 - [3:] Treasure-island
 - [4:] Rock Paper Scissors
