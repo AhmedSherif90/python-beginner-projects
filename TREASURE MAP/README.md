@@ -1,4 +1,4 @@
-#TREASURE MAP
+# TREASURE MAP
 You are going to write a program that will mark a spot on a map with an X.
 
 In the starting code, you will find a variable called map.
