@@ -7,7 +7,7 @@ The best way to learn a new programming language is to build projects with it.  
 - [4: Rock Paper Scissors](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Rock%20Paper%20Scissors)
 - [5: TREASURE MAP](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/TREASURE%20MAP)
 - [6: Password Generator](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Password%20Generator)
-- [7:]Hangman
+- [7: Hangman](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/HangMan)
 - [8:] Function Parameters & Caesar Cipher
 - [9:] Dictionaries, Nesting and the Secret Auction
 - [10:] Functions with Outputs
