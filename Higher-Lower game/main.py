@@ -14,7 +14,7 @@ def format_account(account):
 	description = account["description"]
 	country = account["country"]
 	followers = account["follower_count"]
-	return f"{name}, a {description}, from {country}, {followers} followers."
+	return f"{name}, a {description}, from {country}."
 
 
 def check_guess(account_a, account_b, guess):
