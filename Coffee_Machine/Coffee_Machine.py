@@ -1,3 +1,19 @@
+logo: str = '''
+
+________._________
+|      | \   -   /
+|  ||  |  \  -  /
+|  ||  |___\___/
+|  ||  |     X
+|      |    ___
+|      |  [] - []
+|______| []  -  []
+| ____ |[]_______[]
+||7:30||__________
+||____|           |
+|_________________|
+'''
+
 MENU = {
 	"espresso": {
 		"ingredients": {
@@ -63,6 +79,7 @@ def report():
 is_on = True
 
 while is_on:
+	print(logo)
 	choice = input("What would you like? (espresso/latte/cappuccino): ")
 	if choice in MENU or choice == "off" or choice == "report":
 		if choice == "off":
