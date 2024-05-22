@@ -9,4 +9,5 @@ The best way to learn a new programming language is to build projects with it.  
 - [6: Password Generator](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Password%20Generator)
 - [7: Hangman](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/HangMan)
 - [8: Guessing game](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Guessing%20game)
-- [9: Higher-Lower game](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Higher-Lower%20game) 
+- [9: Higher-Lower game](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Higher-Lower%20game)
+- [10: Coffee_Machine](https://github.com/AhmedSherif90/python-beginner-projects/tree/main/Coffee_Machine)
